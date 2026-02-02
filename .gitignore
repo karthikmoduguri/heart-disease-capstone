@@ -1,0 +1,16 @@
+# ===== Python Virtual Environments (ANYWHERE) =====
+**/venv/
+**/.venv/
+**/env/
+**/.env/
+
+# Virtualenv internal files
+**/pyvenv.cfg
+**/pip-selfcheck.json
+**/.Python
+**/Lib/
+**/Lib64/
+**/Include/
+**/Scripts/
+**/bin/
+**/local/
